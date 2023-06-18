@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Local Access",
+    "name_for_model": "localaccess",
+    "description_for_human": "Read access to your local file system",
+    "description_for_model": "Plugin for that provides read access to the users OS X local file system",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "http://localhost:5004/openapi.yaml"
+    },
+    "logo_url": "http://localhost:5004/logo.png",
+    "contact_email": "ordog.ivett@gmail.com",
+    "legal_info_url": "http://localhost:5004/legal"
+  }
+  
